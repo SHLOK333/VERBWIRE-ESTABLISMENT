@@ -1,0 +1,29 @@
+{
+  "name": "wallet-integration",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "10.4.14",
+    "eslint-config-next": "^13.4.10",
+    "next": "13.4.9",
+    "next-transpile-modules": "^10.0.0",
+    "postcss": "8.4.25",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.2",
+    "verbwire-wallet": "^0.1.0",
+    "verbwire-wallet-stream": "^0.1.0",
+    "viem": "^1.2.12",
+    "wagmi": "^1.3.8"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2"
+  }
+}
