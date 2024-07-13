@@ -42,3 +42,4 @@ This will start the development server, allowing you to access and test the Verb
 
    Message me for the full code explanation or any queries
 you can use it for any hackathon 
+Access wallet Info 
